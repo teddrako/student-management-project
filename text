@@ -1,0 +1,73 @@
+
+-------< Student List >-------
+
+Student Name: Julia
+Student Year: 2
+Student Number: 300783
+Student Password: disco343
+ - Period 1: spare > mark not recorded
+ - Period 2: math > mark not recorded
+ - Period 3: geography > mark not recorded
+ - Period 4: history > mark not recorded
+
+Student Name: Imran
+Student Year: 5
+Student Number: 300111
+Student Password: nonsense
+ - Period 1: math > mark not recorded
+ - Period 2: chemistry > mark not recorded
+ - Period 3: spare > mark not recorded
+ - Period 4: french > mark not recorded
+
+Student Name: Cecelia
+Student Year: 1
+Student Number: 300887
+Student Password: password
+ - Period 1: chemistry > mark not recorded
+ - Period 2: business > mark not recorded
+ - Period 3: math > mark not recorded
+ - Period 4: spare > mark not recorded
+
+Student Name: Sam
+Student Year: 2
+Student Number: 300371
+Student Password: p12345
+ - Period 1: geograhy > mark not recorded
+ - Period 2: math > mark not recorded
+ - Period 3: english > mark not recorded
+ - Period 4: physics > mark not recorded
+
+Student Name: Justin
+Student Year: 4
+Student Number: 300162
+Student Password: mycatsandra
+ - Period 1: history > mark not recorded
+ - Period 2: geography > mark not recorded
+ - Period 3: chemistry > mark not recorded
+ - Period 4: math > mark not recorded
+
+
+-------< Educator List >-------
+
+Educator Name: Bordeaux
+Educator Course: french
+Educator Number: 600992
+Educator Password: enfrancais
+
+Educator Name: Robinson
+Educator Course: math
+Educator Number: 600724
+Educator Password: drphd
+
+Educator Name: Svenson
+Educator Course: biology
+Educator Number: 600335
+Educator Password: allele23
+
+
+-------< Director List >-------
+
+Director Name: Smith
+Diretor Number: 900001
+Director Password: thedirector
+
